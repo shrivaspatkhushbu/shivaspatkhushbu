@@ -1,15 +1,36 @@
+# Hi there! 👋 I'm Khushboo Shrivaspat
+
+## About Me
+I'm a passionate Full Stack Developer with a strong background in Python development. I thrive on creating innovative solutions and building dynamic web applications. My journey in software development has equipped me with a diverse skill set and a keen eye for detail. I'm committed to delivering high-quality code and exceeding client expectations.
+
+## What I Do
+As a Full Stack Developer, I'm proficient in both frontend and backend technologies, allowing me to handle all aspects of the development process. Here are some of the languages and tools I specialize in:
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Backend
+- Python
+- Django
+- MySQL
+- Pandas (for data manipulation)
+
+## My Projects
+I have worked on a variety of projects, ranging from e-commerce platforms to data-driven web applications. Here are a few highlights:
+
+- **E-commerce Website:** Developed a fully functional e-commerce platform using Django, complete with user authentication, product listings, and checkout functionality.
+- **Data Analysis Tool:** Created a web application for data analysis using Python and Pandas, allowing users to upload datasets, perform analysis, and visualize results.
+- **Portfolio Website:** Designed and built a personal portfolio website to showcase my projects and skills, implementing responsive design principles for optimal viewing across devices.
+
+## Get in Touch
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at shrivaspatkhushbu@gmail.com. Let's connect and discuss how we can work together to bring your ideas to life!
+
+## Connect with Me
+You can also find me on LinkedIn. Don't hesitate to connect and explore potential synergies:
+[LinkedIn](https://linkedin.com/in/khushbu-shrivaspat-a0b281229/)
+
+Thank you for visiting my profile! I look forward to connecting with you.
 # shivaspatkhushbu
-<h1 align="center">Hi 👋, I'm khushboo shrivaspat</h1>
-<h3 align="center">A passionate Full stack developer </h3>
-<img align="rigth alt ="coding" width ="400" src ="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
-
-
-- 📫 How to reach me **shrivaspatkhushbu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushbu-shrivaspat-a0b281229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushbu-shrivaspat-a0b281229/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
